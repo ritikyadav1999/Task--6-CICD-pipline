@@ -1,5 +1,5 @@
-# Task-6-CICD-pipline
-Task_6 Kaiburr Assessment
+# Task-5 CICD-pipline
+Task_5 Kaiburr Assessment
 
 ### We have used AWS code pipeline for creating ci-cd pipeline
 
